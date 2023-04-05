@@ -13,3 +13,4 @@
 ### Steps to start project :
 
 - npm i
+- install prettier extensions
