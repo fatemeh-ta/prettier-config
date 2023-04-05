@@ -1,6 +1,6 @@
 # Prettier Config
 
-##in project used from :
+## in project used from :
 
 - double quotation instead single quotation
 - semi for end line
